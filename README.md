@@ -1,2 +1,2 @@
 # Smart-Priority-Based-Wireless-Traffic-Control-System
-"Smart priority-based wireless traffic control system using Arduino, RF communication, and real-time signal management."
+A wireless Arduino-based traffic control system that supports both normal traffic cycling and emergency vehicle priority handling using RF communication.
